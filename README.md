@@ -3,11 +3,76 @@
 
 ## Table of Contents
 
+- [Project Overview](#project-overview)
+- [Key Features](#key-features)
+- [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Backend Setup](#backend-setup)
 - [Frontend Setup](#frontend-setup)
 - [Usage](#usage)
 
+
+
+## Project Overview
+
+This platform empowers users to:
+- Discover internships and jobs tailored to their profiles.
+- Build and export resumes.
+- Participate in mock interviews and skill assessments.
+- Track learning progress and certifications.
+- Access career guidance, community support, and mentorship.
+- Stay updated on job market trends, skills demand, and career events.
+
+A professional UI, collapsible sidebar, infographics, and accessibility support are built in for a modern, inclusive experience.
+
+## Key Features
+
+### User & Career Management
+- Register, login, and manage profiles.
+- Update skills, education, work experience.
+- Automated resume wizard and customizable templates.
+- Export resumes (PDF, DOCX).
+- Link third-party profiles (LinkedIn, GitHub).
+
+### Recommendations & Insights
+- Personalized internship/job recommendations.
+- Real-time job market analysis and alerts.
+- Competency diagnostic tests and skill gap analysis.
+- Career roadmap and goal tracking.
+
+### Learning & Community
+- Suggest training courses and workshops.
+- Track progress in skill development.
+- Badges, certifications, and achievement sharing.
+- Mock interviews, webinars, and virtual job fairs.
+- Community forums, peer-to-peer mentoring, and career counseling.
+
+### Application & Notifications
+- Apply directly to jobs from the platform.
+- Track application status and feedback.
+- Set reminders for deadlines and events.
+- Job alerts and notifications based on preferences.
+
+### Accessibility & Inclusion
+- Dedicated features for users with special needs.
+- Inclusive design and technology adaptation.
+
+
+## Technologies Used
+
+- **Backend:**
+  - Python
+  - Django (RESTful APIs, authentication, admin panel)
+
+- **Frontend:**
+  - React (UI components, state management)
+  - Vite (development/build tooling)
+  - JavaScript & TypeScript (frontend logic and type safety)
+  - CSS & HTML (styling and structure)
+
+- **Others:** 
+  - npm/yarn (package management)
+  - Various libraries for skills, resume building, and UI components
 
 ## Installation
 
