@@ -1,4 +1,4 @@
-# HireMe - Smart India Hackathon 2024 (LPU, Jalandhar, Punjab)
+Internship Recommendation System
 
 
 ## Table of Contents
@@ -14,7 +14,7 @@
 
 ## Installation
 
-To get started with the HireMe project, follow these steps:
+To get started with the project, follow these steps:
 
 ### Prerequisites
 
@@ -29,7 +29,7 @@ To get started with the HireMe project, follow these steps:
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/yourusername/hireme.git
+   https://github.com/ConsistentCoder365/Internship-Recommendation-System.git
    cd hireme/backend
    ```
 
@@ -99,17 +99,3 @@ To get started with the HireMe project, follow these steps:
 
 - Navigate to the registration page at `http://localhost:5173/register` to create a new account.
 - Navigate to the login page at `http://localhost:5173/login` to log in to your account.
-
-## Contributing
-
-We welcome contributions to the HireMe project! To contribute, follow these steps:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bugfix.
-3. Make your changes and commit them with descriptive messages.
-4. Push your changes to your fork.
-5. Create a pull request to the main repository.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
