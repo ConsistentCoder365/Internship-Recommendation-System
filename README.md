@@ -1,4 +1,4 @@
-Internship Recommendation System
+# Internship Recommendation System
 
 
 ## Table of Contents
@@ -7,9 +7,6 @@ Internship Recommendation System
 - [Backend Setup](#backend-setup)
 - [Frontend Setup](#frontend-setup)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
 
 
 ## Installation
